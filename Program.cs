@@ -15,6 +15,9 @@ namespace ExercicioFuncaoProdutos
         }
         static void MostrarMenu(){
             string caminhoMenu= null;
+            bool resposta_correta= false;
+            do
+            {
             Console.WriteLine(@"
 -------------------------------------------------
 |            Digite a opção desejada:           |
@@ -26,13 +29,21 @@ namespace ExercicioFuncaoProdutos
         caminhoMenu= Console.ReadLine();
         if(caminhoMenu== "1"){
             Cadastrar();
+            resposta_correta= true;
         }
         else if(caminhoMenu== "2"){
             Listar();
+            resposta_correta= true;
+        }
+        else if(caminhoMenu== "3"){
+            Console.WriteLine("Certo, desligando o sistema...");
+            resposta_correta= true;
         }
         else{
-            Console.WriteLine("Certo, desligando o sistema...");
+            Console.WriteLine("Erro 001: Digite '1' para cadastart um ou mais produtos, '2' para listar os produtos cadastrados e '3' para sair.");
+            Console.WriteLine();
         }
+            } while (resposta_correta== false);
         }
         static void Cadastrar(){
             Console.WriteLine("Digite o número de produtos a serem cadastrados");
@@ -77,6 +88,7 @@ namespace ExercicioFuncaoProdutos
             MostrarMenu();
         }
         static void Listar(){
+            if(num_produtos>=1){
                 Console.WriteLine($@"
 ============================================================
 |      Nome    |     Preço    |        em promoção???      |");
@@ -92,6 +104,10 @@ namespace ExercicioFuncaoProdutos
 ============================================================
 |        {nomes[c]}      |      {preco[c]}      |       NÃO :(      |");
                 }
+            }
+            }
+            else{
+                Console.WriteLine("Sem produtos cadastrados...");
             }
             MostrarMenu();
         }
