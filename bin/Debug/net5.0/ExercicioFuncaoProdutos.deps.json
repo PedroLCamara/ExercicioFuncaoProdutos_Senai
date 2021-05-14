@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioFuncaoProdutos/1.0.0": {
+        "runtime": {
+          "ExercicioFuncaoProdutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFuncaoProdutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

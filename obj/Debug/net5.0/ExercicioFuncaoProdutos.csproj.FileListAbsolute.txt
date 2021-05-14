@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ExercicioFuncaoProdutos.exe
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ExercicioFuncaoProdutos.deps.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ExercicioFuncaoProdutos.runtimeconfig.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ExercicioFuncaoProdutos.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ExercicioFuncaoProdutos.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ref\ExercicioFuncaoProdutos.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\bin\Debug\net5.0\ExercicioFuncaoProdutos.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ref\ExercicioFuncaoProdutos.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioFuncaoProdutos\obj\Debug\net5.0\ExercicioFuncaoProdutos.genruntimeconfig.cache
